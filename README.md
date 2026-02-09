@@ -309,12 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Sasanka** - [@sasankawrites](https://www.linkedin.com/in/sasankawrites/)
-
-- 🌐 Portfolio: [sasankawrites.in](https://sasankawrites.in/)
-- 📸 Instagram: [@sashank.codes_](https://www.instagram.com/sashank.codes_)
-- 💻 GitHub: [@Sasanka14](https://github.com/Sasanka14)
-
 ### AXION Motors (Fictional)
 - 📍 Unit no. 2, Aman Chamber, Swatantryaveer Savarkar Rd, Opp. New Passport Office, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025
 - 📞 Sales: +91 22 6789 0123
