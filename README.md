@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://sasankawrites.in/">Sasanka</a>
+  Made with ❤️ by grp 2
 </p>
 
 <p align="center">
